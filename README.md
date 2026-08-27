@@ -1,5 +1,5 @@
 # VILLAR-PA-1
-This repository contains Experiment 1: Introduction To Python Programming in our ECE2112 course.
+This repository contains Experiment 1: Introduction To Python Programming for our ECE2112 course.
 
 # **1. Word Rotation Problem**
 
@@ -76,3 +76,6 @@ def swap_bookends(items):
 print(swap_bookends([1, 2, 3, 4, 5, 6]))
 print(swap_bookends(["red", "green", "blue"]))
 print(swap_bookends([8, 3]))
+```
+
+August 27, 2026 - update README output uploaded
